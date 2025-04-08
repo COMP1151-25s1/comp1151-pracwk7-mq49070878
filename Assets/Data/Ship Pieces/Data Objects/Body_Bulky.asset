@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 543b75f570032b5438a09d4717acb67b, type: 3}
+  m_Name: Body_Bulky
+  m_EditorClassIdentifier: 
+  pieceObject: {fileID: 8966375354904339877, guid: 38400185181e9b64eafdee109f6f23e4, type: 3}
+  pieceSprite: {fileID: 5160636565023641891, guid: 899c9df03822de447ac335a5a6fd032f, type: 3}
+  pieceCost: 200
+  shipPieceType: 0

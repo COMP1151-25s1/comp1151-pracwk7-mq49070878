@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 543b75f570032b5438a09d4717acb67b, type: 3}
+  m_Name: Wing_Bulky
+  m_EditorClassIdentifier: 
+  pieceObject: {fileID: 4862776082252685626, guid: 087a11f9c8c074948820a8e35ff3f221, type: 3}
+  pieceSprite: {fileID: 8387013987807218027, guid: 6b557064e17c4584eb59d67cd67867d8, type: 3}
+  pieceCost: 100
+  shipPieceType: 1

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e67367d7bb9c48242b16a6dd86e4714c, type: 3}
+  m_Name: Wastelands
+  m_EditorClassIdentifier: 
+  biomeName: Wastelands
+  biomeDescription: The barren outskirts of space.
+  biomeObjects:
+  - density: 5
+    densityObject: {fileID: 9012480738418369807, guid: 286a0b024eb70c94196f3f748dcbdb45, type: 3}
+    randomScl: {x: 0.5, y: 2.5}
+    randomRot: {x: -360, y: 360}
+    randomVel: {x: -2.5, y: 2.5}
+  - density: 0.25
+    densityObject: {fileID: 5848146978588099333, guid: be225e714770a024ea2babe35ff16ddb, type: 3}
+    randomScl: {x: 1, y: 1}
+    randomRot: {x: 0, y: 0}
+    randomVel: {x: 0, y: 0}

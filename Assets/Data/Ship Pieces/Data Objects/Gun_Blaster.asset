@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 543b75f570032b5438a09d4717acb67b, type: 3}
+  m_Name: Gun_Blaster
+  m_EditorClassIdentifier: 
+  pieceObject: {fileID: 4761416054605249680, guid: fbeb89dc2423f9243bb6a85d804daa6a, type: 3}
+  pieceSprite: {fileID: -1286424900519430524, guid: 5d116edb5749bff4ab72cb9dcbf4cd71, type: 3}
+  pieceCost: 200
+  shipPieceType: 3

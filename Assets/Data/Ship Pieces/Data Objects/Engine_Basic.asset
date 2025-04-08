@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 543b75f570032b5438a09d4717acb67b, type: 3}
+  m_Name: Engine_Basic
+  m_EditorClassIdentifier: 
+  pieceObject: {fileID: 6766602048946922470, guid: 84a6cf20c06539742b9d214175b4ac50, type: 3}
+  pieceSprite: {fileID: 21300000, guid: b97596d615fffed4ebd6fa35775280dc, type: 3}
+  pieceCost: 75
+  shipPieceType: 2
